@@ -52,14 +52,11 @@
 ## 项目页面截图
 
 注意：展示的项目截图是具有admin角色的用户能看到的页面，具有user角色的用户不能看到管理课程页面和管理用户页面。
+![image-20211008180850869](https://user-images.githubusercontent.com/67449258/136729866-4da12a2c-c96a-4375-a8f7-e5ac8ffdc63b.png)
+![image-20211008180935447](https://user-images.githubusercontent.com/67449258/136729894-dc4bd156-9085-46c9-b3e1-dffa876242d5.png)
+![image-20211008181014902](https://user-images.githubusercontent.com/67449258/136729911-f64d8698-8fc5-44ba-8b23-a1c7f453fc51.png)
+![image-20211008181047325](https://user-images.githubusercontent.com/67449258/136729922-33b9f077-dc66-4b89-8acd-abbc98f2da17.png)
 
-![image-20211008180850869](C:\Users\jingliwang\AppData\Roaming\Typora\typora-user-images\image-20211008180850869.png)
-
-![image-20211008180935447](C:\Users\jingliwang\AppData\Roaming\Typora\typora-user-images\image-20211008180935447.png)
-
-![image-20211008181014902](C:\Users\jingliwang\AppData\Roaming\Typora\typora-user-images\image-20211008181014902.png)
-
-![image-20211008181047325](C:\Users\jingliwang\AppData\Roaming\Typora\typora-user-images\image-20211008181047325.png)
 
 ## 使用说明
 
